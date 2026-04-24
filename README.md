@@ -1,2 +1,1 @@
-# lab8_utleg_versoza
-lab8
+node_modules should already be installed on your device.
